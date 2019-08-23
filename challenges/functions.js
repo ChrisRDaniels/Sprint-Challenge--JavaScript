@@ -40,7 +40,7 @@ return `Hello ${first} ${last}, nice to meet you!`;
 // ==== Closures ==== 
 
 // Explain in your own words why nestedfunction can access the variable internal.
-// Since the inner function is nested within the outer function it gains access to the internal variable as it came was defined prior to the new function being created. 
+// Since the inner function is nested within the outer function it gains access to the internal variable as it was defined prior to the new function being created. 
 // Explanation: 
 
 
